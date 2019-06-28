@@ -27,7 +27,7 @@ const item2 = new Item({
 });
 
 const item3 = new Item({
-    name: "It's a day for sex"
+    name: "It's a day for smth"
 });
 
 const defaultItems = [item1, item2, item3];
